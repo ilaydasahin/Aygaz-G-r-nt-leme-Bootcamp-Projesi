@@ -54,11 +54,12 @@ Her bir sınıftan yalnızca 650 resim kullanılacaktır. Bu sınıflar, denge s
 Proje, Colab veya Kaggle notebook ortamlarında çalışacak şekilde tasarlanmıştır. Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 
-. Veri setini https://www.kaggle.com/code/klaydaahin/notebook83efb73048 üzerinden indirip uygun bir klasöre yerleştirin.
+. Veri setini https://www.kaggle.com/code/klaydaahin/aygaz-bootcamp-goruntu-isleme üzerinden indirip uygun bir klasöre yerleştirin.
 3. Notebook üzerinde adımları takip ederek projeyi çalıştırın.
 
 ## Sonuçlar
 
 Sonuçlar ve model başarıları, farklı test setleriyle karşılaştırılmıştır. Projenin sonunda, modelin başarısını artırmak için uygulanacak olası iyileştirmeler tartışılmıştır.
 
-
+***********************
+https://www.kaggle.com/code/klaydaahin/aygaz-bootcamp-goruntu-isleme
