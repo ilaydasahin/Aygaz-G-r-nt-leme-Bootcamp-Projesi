@@ -39,8 +39,6 @@ Her bir sınıftan yalnızca 650 resim kullanılacaktır. Bu sınıflar, denge s
     - Test resimleri farklı ışık koşulları altında manipüle edilmiştir ve modelle test edilmiştir.
     - Görüntülere renk sabitliği algoritması uygulanmıştır ve sonuçlar karşılaştırılmıştır.
 
-5. **Sonuçların Karşılaştırılması ve Raporlanması**:
-    - Farklı test setlerinin başarıları karşılaştırılmıştır. Modelin başarısını artırmak için çözüm önerileri geliştirilmiştir.
 
 ## Kütüphaneler ve Araçlar
 
@@ -55,11 +53,8 @@ Proje, Colab veya Kaggle notebook ortamlarında çalışacak şekilde tasarlanm�
 
 
 . Veri setini https://www.kaggle.com/code/klaydaahin/aygaz-bootcamp-goruntu-isleme üzerinden indirip uygun bir klasöre yerleştirin.
-3. Notebook üzerinde adımları takip ederek projeyi çalıştırın.
+- Notebook üzerinde adımları takip ederek projeyi çalıştırın.
 
-## Sonuçlar
-
-Sonuçlar ve model başarıları, farklı test setleriyle karşılaştırılmıştır. Projenin sonunda, modelin başarısını artırmak için uygulanacak olası iyileştirmeler tartışılmıştır.
 
 ***********************
 https://www.kaggle.com/code/klaydaahin/aygaz-bootcamp-goruntu-isleme
