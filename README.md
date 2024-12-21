@@ -61,11 +61,4 @@ Proje, Colab veya Kaggle notebook ortamlarında çalışacak şekilde tasarlanm�
 
 Sonuçlar ve model başarıları, farklı test setleriyle karşılaştırılmıştır. Projenin sonunda, modelin başarısını artırmak için uygulanacak olası iyileştirmeler tartışılmıştır.
 
-## Katkıda Bulunanlar
 
-- **Diclehan Ulucan** (Proje Tasarımı ve Uygulama)
-- **Oğuzhan Ulucan** (Model Eğitim ve Test)
-
-## Lisans
-
-Bu proje, [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır.
